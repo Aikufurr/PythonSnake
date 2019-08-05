@@ -9,3 +9,6 @@ Simple snake made in python
 Uses Arrow Keys to move, hold the key for a boost.
 
 To end press `escape`
+
+
+![snake gif](https://github.com/Aikufurr/PythonSnake/raw/master/snake.gif)
